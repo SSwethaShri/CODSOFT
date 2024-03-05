@@ -1,1 +1,5 @@
 # CODSOFT
+# Internship
+In the CODSOFT Internship "Java Development" platform I had enclosed the STUDENT GRADE CALCULATOR AND ATM basic operation performer 
+In the student Grade Calculator , Firstly, it ask for number of subject and the each subject mark.I had fixed 35 as the least pass mark if the mark is less than 35 then the message will be displayed as the student was failed in that particular subject and also when displaying grade the same message will be displayed and viceversa. Coming to the grade calculation, the grades like "A+ , A , B , C , D" will be displayed based on the average of subject marks.
+In the ATM basic operation performer some of the operations like deposit, withdraw, check balance and exit can be done. I had deposited 1000 rupees as default for every new ATM operations and in this application minimum withdraw amount is 100. If less than 100 is entered to be withdrawn then, false message will be displayed. There is no limit for deposited amount you can deposit even a rupee on your ATM operation. After you performed your ATM operations you can check balances in your account. 
